@@ -1,0 +1,38 @@
+:root{
+    --fs-sm: 16px;
+    --fs-md: 36px;
+
+
+    --blue: #1444EF;
+    --light-blue: #128DFF;
+    --white: #fff;
+    --gray: #808080;
+    --black: black;
+}
+.fs-sm{
+    font-size: var(--fs-sm);
+}
+.fs-md{
+    font-size: var(--fs-md);
+}
+.bg-blue{
+    background-color: var(--blue);
+}
+.bg-light-blue{
+    background-color: var(--light-blue);
+}
+.bg-white{
+    background-color: var(--white);
+}
+.bg-black{
+    background-color: var(--black);
+}
+.color-blue{
+    color: var(--blue);
+}
+.color-white{
+    color: var(--white);
+}
+.color-gray{
+    color: var(--gray);
+}
